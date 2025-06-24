@@ -24,6 +24,8 @@ $employees = getEmployeesByDept($dept_no);
       <th>Prénom</th>
       <th>Nom</th>
       <th>Date d'embauche</th>
+      <th>K3</th>
+      <th>Lolirock</th>
     </tr>
     <?php foreach ($employees as $emp) { ?>
       <tr>
