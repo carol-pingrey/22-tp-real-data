@@ -1,0 +1,11 @@
+To-Do List
+
+Version 1
+Page Liste Départements  
+- Afficher tableau des départements (ID, Nom)  
+- Ajouter colonne "Manager" (nom du responsable actuel)  
+- Lien "Voir équipe" par département → redirige vers page employés  
+
+Prochaines étapes  
+- Page employés : filtrer par département sélectionné  
+- Ajouter un bouton retour vers la liste  
